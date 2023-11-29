@@ -1,0 +1,7 @@
+In this project I designed a website using PHP, SQL, CSS, and JS. 
+
+Design: *All backend was in PHP, all database managment was done with SQL, all visuals were done with w3-css, our website was through MAMP which was basically our PHP interpreter*
+  To start the project a person logging on should start off on the login screen, if they do not have an account they must register. The use of sessions make it to where you have to login to 
+  actually get to any of the other pages.  After registering they can login to the account which directs them to the home page. The home page is a rate your professor website that allows you to 
+  post your professors name, rating, and a small review on them. From there it gets stored into a SQL data base. Another page is the contact us page, on this page you type in your email then 
+  a message you would like us to see. Once this is done it's stored in a different table in the database. The about us page is my personal favorite, click on it to see!:D.
